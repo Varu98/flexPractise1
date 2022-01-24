@@ -1,0 +1,21 @@
+body{
+  color: #fff;
+  margin: 0;
+}
+
+.wrapper{
+  background-color: rgb(89, 27, 104);
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.social-wrapper{
+  display: flex;
+  gap: 10px;
+}
+
+.logo {
+  color: #fff;
+}
